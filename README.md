@@ -33,5 +33,5 @@ Available protocol values are:
 
 Examples:
 
-`wo duckduckgo.com` -> https://duckduckgo.com
-`wo not-secured.com 1` -> http://not-secured.com
+* `wo duckduckgo.com` -> https://duckduckgo.com
+* `wo not-secured.com 1` -> http://not-secured.com
