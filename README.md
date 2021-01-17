@@ -1,10 +1,13 @@
 # zsh-web-open
 custom oh-my-zsh plugin
-
 This plugin adds aliases for opening web pages.
 
-Open your `~/.zshrc` file and enable the `web-open` plugin:
+# installation
 
+1) Clone repo:
+git clone https://github.com/AndrewHaluza/zsh-web-open.git ~/.oh-my-zsh/custom/plugins/web-open/
+
+2) Open your `~/.zshrc` file and enable the `web-open` plugin:
 ```zsh
 plugins=( ... web-open)
 ```
