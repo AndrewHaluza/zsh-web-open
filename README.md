@@ -38,3 +38,7 @@ Examples:
 
 * `wo duckduckgo.com` -> https://duckduckgo.com
 * `wo not-secured.com 1` -> http://not-secured.com
+
+
+## Dependencies
+Fully compatible with ubuntu 20.04
