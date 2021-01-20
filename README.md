@@ -13,7 +13,6 @@ This plugin adds aliases for opening web pages.
 ```zsh
 plugins=( ... web-open)
 ```
-
 ## Usage
 
 You can use the `web-open` plugin in form:
