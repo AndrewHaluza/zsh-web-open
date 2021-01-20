@@ -1,5 +1,4 @@
 # zsh-web-open
-
 custom oh-my-zsh plugin
 This plugin adds aliases for opening web pages.
 
