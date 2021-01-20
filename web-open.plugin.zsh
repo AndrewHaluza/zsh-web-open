@@ -10,4 +10,12 @@ function wo(){
         open_command $protocol://$1;
 }
 
-alias o-localhost='wo localhost 1';
+function lo(){
+        protocol=http;
+
+        if ([[ $3 -eq 1 ]]); then
+                protocol=https;
+        fi
+
+        open_command $protocol://localhost:$1/$2;
+}
