@@ -37,11 +37,11 @@ $ lo 4321 1                                     # https://localhost:4321
 | ------- | ------- | ------- |
 | `wo`    | `0`     | `https` |
 | `wo`    | `1`     | `http`  |
-| `wo`    | _empty_ | `https` |
-| `wo`    | _any_   | `http`  |
+| `wo`    | *empty* | `https` |
+| `wo`    | *any*   | `http`  |
 | `lo`    | `1`     | `https` |
-| `lo`    | _empty_ | `http`  |
-| `lo`    | _any_   | `http`  |
+| `lo`    | *empty* | `http`  |
+| `lo`    | *any*   | `http`  |
 
 Examples:
 
